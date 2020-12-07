@@ -1,0 +1,7 @@
+Ginkgo_coding_challenge.iml
+.idea/
+.pytest_cache/
+build/
+dist/
+ginkgo_coding_challenge/settings.py
+Ginkgo_coding_challenge.egg-info/
