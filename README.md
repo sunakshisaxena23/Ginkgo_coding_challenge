@@ -104,6 +104,7 @@ insert into sample_measurements values
 +----+-----------+---------------+---------------------+
 20 rows in set (0.037 sec)
 
+![alt text](https://github.com/sunakshisaxena23/Ginkgo_coding_challenge/blob/main/ginkgo.jpg?raw=true)
 
 modeling query:
 
