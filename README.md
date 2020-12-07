@@ -62,12 +62,18 @@ insert into sample_measurements values
 (17, 'ph', 5.0), (8, 'ph', 7.4),
 (19, 'ph', 5.25), (20, 'ph', 7.34);
 
+##############################
 
+Programming question Answer:
+after adding New types of measurements: 
+
+![alt text](https://github.com/sunakshisaxena23/Ginkgo_coding_challenge/blob/main/Screen_Shot.png)
 
 
 #######################
 
-Modeling question
+Modeling question Answer:
+
 
 ![alt text](https://github.com/sunakshisaxena23/Ginkgo_coding_challenge/blob/main/ginkgo.jpg?raw=true)
 
