@@ -5,8 +5,8 @@ from ginkgo_coding_challenge.data_transformation import with_top_parent_id, with
 
 import os
 
-os.environ["PYSPARK_PYTHON"] = "/Users/sunakshisaxena/anaconda3/envs/untitled/bin/python"
-os.environ["PYSPARK_DRIVER_PYTHON"] = "/Users/sunakshisaxena/anaconda3/envs/untitled/bin/python"
+os.environ["PYSPARK_PYTHON"] = "anaconda3/envs/untitled/bin/python"
+os.environ["PYSPARK_DRIVER_PYTHON"] = "anaconda3/envs/untitled/bin/python"
 
 
 class TestDataTransformation(object):
