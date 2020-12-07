@@ -4,7 +4,7 @@ import pyspark.sql.functions as f
 def with_top_parent_id(df):
     return df \
         .withColumn("top_parent_id", f.when(f.col("parent_id").isNull(), f.col("id"))
-                    .otherwise(f.split(f.col("path")[0], "|")[0])) \
+                    .otherwise(f.split(f.col("path")[0], '\|')[0])) \
         .withColumnRenamed("id", "sample_id")
 
 
